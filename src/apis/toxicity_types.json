@@ -1,0 +1,20 @@
+{
+  "toxicity_types": [
+    {
+      "type": "Tóxica para animais",
+      "description": "Plantas que podem causar reações adversas se ingeridas ou tocadas por animais de estimação, como cães e gatos."
+    },
+    {
+      "type": "Tóxica para humanos",
+      "description": "Plantas que podem causar reações adversas se ingeridas ou tocadas por seres humanos, especialmente crianças."
+    },
+    {
+      "type": "Não tóxica",
+      "description": "Plantas que são seguras e não causam reações adversas significativas em humanos ou animais de estimação."
+    },
+    {
+      "type": "Tóxica para ambos",
+      "description": "Plantas que podem causar reações adversas tanto em humanos quanto em animais de estimação."
+    }
+  ]
+}

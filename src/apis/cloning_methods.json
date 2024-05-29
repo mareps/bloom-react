@@ -1,0 +1,25 @@
+{
+    "cloning_methods": [
+      {
+        "method": "Estaquia",
+        "description": "Método onde um pedaço da planta, geralmente um ramo ou folha, é cortado e colocado em água ou solo para enraizar e formar uma nova planta."
+      },
+      {
+        "method": "Divisão de touceiras",
+        "description": "Processo de separação de uma planta em várias partes, cada uma com raízes próprias, que são então replantadas separadamente."
+      },
+      {
+        "method": "Mergulhia",
+        "description": "Técnica onde um ramo da planta mãe é dobrado até o solo e parcialmente enterrado até que crie raízes. Depois, a nova planta é separada da mãe."
+      },
+      {
+        "method": "Alporquia",
+        "description": "Método onde um ramo ainda ligado à planta mãe é envolvido com musgo ou terra úmida até que crie raízes. Depois, o ramo é cortado e plantado separadamente."
+      },
+      {
+        "method": "Sementes",
+        "description": "Processo de plantio de sementes para germinar e crescer novas plantas, sendo um dos métodos mais comuns de propagação."
+      }
+    ]
+  }
+  

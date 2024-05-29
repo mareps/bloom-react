@@ -1,0 +1,20 @@
+{
+    "sunlight_types": [
+        {
+            "type": "luz-direta",
+            "description": "Plantas que requerem luz direta precisam de exposição à luz solar direta por várias horas ao dia."
+        },
+        {
+            "type": "luz-indireta",
+            "description": "Plantas que preferem luz indireta devem ser colocadas em locais onde a luz solar é filtrada ou refletida, evitando a exposição direta ao sol."
+        },
+        {
+            "type": "meia-sombra",
+            "description": "Plantas que precisam de meia-sombra se desenvolvem bem em locais que recebem luz solar indireta ou apenas algumas horas de sol direto por dia."
+        },
+        {
+            "type": "sombra",
+            "description": "Plantas que toleram sombra devem ser colocadas em locais com pouca ou nenhuma exposição direta à luz solar."
+        }
+    ]
+}

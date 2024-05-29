@@ -1,0 +1,17 @@
+{
+    "irrigation_types": [
+      {
+        "type": "Baixa",
+        "description": "Plantas que necessitam de pouca irrigação geralmente preferem que o solo seque completamente entre as regas. Essas plantas são ideais para pessoas que podem esquecer de regar frequentemente."
+      },
+      {
+        "type": "Média",
+        "description": "Plantas que requerem irrigação moderada precisam que o solo seja mantido ligeiramente úmido, mas não encharcado. Regar uma ou duas vezes por semana é normalmente suficiente."
+      },
+      {
+        "type": "Alta",
+        "description": "Plantas que exigem alta irrigação necessitam de solo constantemente úmido, sem deixar secar entre as regas. Essas plantas podem precisar ser regadas várias vezes por semana."
+      }
+    ]
+  }
+  

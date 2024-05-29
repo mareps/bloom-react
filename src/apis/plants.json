@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "name": "Espada de São Jorge",
+        "description": "Planta de folhas longas e verticais, fácil de cuidar e que ajuda a purificar o ar.",
+        "toxic": "Sim",
+        "irrigation": "Baixa",
+        "sunlight": "meia-sombra",
+        "cloning_method": "Divisão de touceiras",
+        "colors": [
+            "Verde",
+            "Amarelo"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Jiboia",
+        "description": "Planta trepadeira de folhas verdes e vistosas, ótima para ambientes internos.",
+        "toxic": "Sim",
+        "irrigation": "Média",
+        "sunlight": "luz-indireta",
+        "cloning_method": "Estaquia",
+        "colors": [
+            "Verde",
+            "Amarelo"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Zamioculca",
+        "description": "Planta resistente com folhas brilhantes, ideal para locais com pouca luz.",
+        "toxic": "Sim",
+        "irrigation": "Baixa",
+        "sunlight": "meia-sombra",
+        "cloning_method": "Divisão de touceiras",
+        "colors": [
+            "Verde"
+        ]
+    },
+    {
+        "name": "Aspidistra",
+        "description": "Planta resistente com folhas largas e verdes, ideal para locais com pouca luz.",
+        "toxic": "Não",
+        "irrigation": "Baixa",
+        "sunlight": "sombra",
+        "cloning_method": "Divisão de touceiras",
+        "colors": [
+            "Verde"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Suculenta",
+        "description": "Plantas pequenas e resistentes que armazenam água em suas folhas, perfeitas para ambientes internos.",
+        "toxic": "Não",
+        "irrigation": "Baixa",
+        "sunlight": "luz-direta",
+        "cloning_method": "Estaquia",
+        "colors": [
+            "Verde",
+            "Cinza"
+        ]
+    }
+]
