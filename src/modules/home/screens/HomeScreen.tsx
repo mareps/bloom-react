@@ -1,11 +1,14 @@
-import { DivContainer, PlaceholderImage } from "../styles/homeScreen.styles.ts";
+import { ContainerHome, LimitedContainer, LogoImage, PlaceholderImage } from "../styles/homeScreen.styles.ts";
 
 const HomeScreen = () => {
   return (
     <div>
-      {/* <BackgroundImage src="../background.jpg"/> */}
       <PlaceholderImage></PlaceholderImage>
-      <DivContainer></DivContainer>
+      <ContainerHome>
+        <LimitedContainer>
+          <LogoImage src="../logo.png" />
+        </LimitedContainer>
+      </ContainerHome>
     </div>
   );
 };
