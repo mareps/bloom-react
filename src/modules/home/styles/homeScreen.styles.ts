@@ -34,11 +34,16 @@ export const ContainerHome = styled.div`
 `;
 
 export const LimitedContainer = styled.div`
-  max-width: 1200px;
+  max-width: 600px;
   max-height: calc(100vh - 200px);
   padding: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
 `;
 
 export const LogoImage = styled.img`
-    max-width: 200px;
-`; 
+  max-width: 200px;
+`;
