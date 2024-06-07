@@ -28,6 +28,7 @@
     {
         "id": 3,
         "name": "Zamioculca",
+        "image": "zamioculca",
         "description": "Planta resistente com folhas brilhantes, ideal para locais com pouca luz.",
         "toxic": "Sim",
         "irrigation": "Baixa",
@@ -46,6 +47,45 @@
         "cloning_method": "Divisão de touceiras",
         "colors": [
             "Verde"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Suculenta",
+        "description": "Plantas pequenas e resistentes que armazenam água em suas folhas, perfeitas para ambientes internos.",
+        "toxic": "Não",
+        "irrigation": "Baixa",
+        "sunlight": "luz-direta",
+        "cloning_method": "Estaquia",
+        "colors": [
+            "Verde",
+            "Cinza"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Suculenta",
+        "description": "Plantas pequenas e resistentes que armazenam água em suas folhas, perfeitas para ambientes internos.",
+        "toxic": "Não",
+        "irrigation": "Baixa",
+        "sunlight": "luz-direta",
+        "cloning_method": "Estaquia",
+        "colors": [
+            "Verde",
+            "Cinza"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Suculenta",
+        "description": "Plantas pequenas e resistentes que armazenam água em suas folhas, perfeitas para ambientes internos.",
+        "toxic": "Não",
+        "irrigation": "Baixa",
+        "sunlight": "luz-direta",
+        "cloning_method": "Estaquia",
+        "colors": [
+            "Verde",
+            "Cinza"
         ]
     },
     {
